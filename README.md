@@ -1,1 +1,1 @@
-# Fraud-Detection-with-Graph-Neural-Networks-GNNs-
+# Fraud-Detection-with-Graph-Neural-Networks
